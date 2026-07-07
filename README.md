@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started - Sample React App
 Install the dependencies and run the project
 ```
 npm install
